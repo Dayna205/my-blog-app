@@ -25,14 +25,7 @@ function Main() {
           <i className="fas fa-chevron-right next" aria-hidden="true"></i>
 
           <div className="post-wrapper">
-<button className="scroll-button btn btn-outline-secondary " onClick={() => {
-      const container = document.querySelector('.content2-images');
-      container.scrollBy({ left: -200, behavior: 'smooth' });
-    }}>
-    <i>
-    <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#272727"><path d="m321-80-71-71 329-329-329-329 71-71 400 400L321-80Z"/></svg>
-   </i>
-   </button>
+
             <div className="post">
               <div className="slider-image" aria-hidden="true" />
               <div className="post-info">
