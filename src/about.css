@@ -1,0 +1,25 @@
+.section-title1 {
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+.about-section {
+  padding: 50px 0;
+ text-align: center;
+ font-family: 'Figtree', serif;
+ 
+  background: linear-gradient(to bottom, rgba(246, 243, 237, 1.0), rgba(253, 202, 226, 0.3), rgba(253, 202, 226, 0.7));
+}
+.logo-overlay {display: inline-block;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+
+}
+.about-section p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  margin: 20px auto;
+  max-width: 800px;
+  font-family: 'Figtree', serif;
+  font-weight: 400;
+}
